@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @PabloVenino 
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python, but now, I'm interested in HTML, CSS and JavaScript
-- 💞️ I wanted you to collaborate with my files
-- 📫 You can reach me sending a message to: pablo.venino@hotmail.com, or via my Linkein account. in/pablo-venino-346462178/
+👋 Hello, There, the Angel from my dreams ✨
+Im Pablo, by the way, and I'm currently learning:
 
+
+📫 You can reach at:
+<div>
+ 
+<a href = "mailto: pablo.venino@hotmail.com"><img src="" target="_blank"></a>
+</div>
 <!---
 PabloVenino/PabloVenino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
+ 
+ ![GitHub branch checks state](https://img.shields.io/github/checks-status/pablovenino/pablovenino/main?style=social)
+ 
  
 ![Snake animation](https://github.com/pablovenino/pablovenino/blob/output/github-contribution-grid-snake.svg)
