@@ -1,16 +1,12 @@
 # 👋 Hello there,
-##### the Angel from my ~~nightmare~~
+###### the Angel from my ~~nightmare~~
 Im Pablo, by the way, and I'm:
 - From Brazil :brazil:
 - Always learning.
 - Currently learning:
-<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 - Love read, play the guitar, and who knows why not trying to write?
-
-
-<hr>
 
 ## You can reach me at:
 <div>
@@ -24,6 +20,11 @@ Im Pablo, by the way, and I'm:
 </a>
 
 </div>
- 
+
+## Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablovenino)](https://github.com/pablovenino/github-readme-stats)
+
+## My GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablovenino&show_icons=true&theme=dracula)
  
 ![Snake animation](https://github.com/pablovenino/pablovenino/blob/output/github-contribution-grid-snake.svg)
