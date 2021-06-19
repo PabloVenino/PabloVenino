@@ -1,19 +1,29 @@
-👋 Hello, There, the Angel from my dreams ✨
-Im Pablo, by the way, and I'm currently learning:
+# 👋 Hello there,
+##### the Angel from my ~~nightmare~~
+Im Pablo, by the way, and I'm:
+- From Brazil :brazil:
+- Always learning.
+- Currently learning:
+<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" style="max-width=100%;" width="30px" heigth="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+- Love read, play the guitar, and who knows why not trying to write?
 
 
-📫 You can reach at:
+<hr>
+
+## You can reach me at:
 <div>
  
-<a href = "mailto: pablo.venino@hotmail.com"><img src="" target="_blank"></a>
+<a href="">
+ <img heigth="30px" width="30px" alt="pablo's-linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+
+<a href="https://github.com/PabloVenino" target="_blank">
+ <img heigth="30px" width="30px" alt="pablo's-github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</a>
+
 </div>
-<!---
-PabloVenino/PabloVenino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- 
- ![GitHub branch checks state](https://img.shields.io/github/checks-status/pablovenino/pablovenino/main?style=social)
  
  
 ![Snake animation](https://github.com/pablovenino/pablovenino/blob/output/github-contribution-grid-snake.svg)
