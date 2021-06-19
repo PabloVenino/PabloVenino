@@ -1,4 +1,4 @@
-# 👋 Hello there,
+# Hello there,
 ###### the Angel from my ~~nightmare~~
 Im Pablo, by the way, and I'm:
 - From Brazil :brazil:
