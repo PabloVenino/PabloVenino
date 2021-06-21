@@ -11,7 +11,11 @@ Im Pablo, by the way, and I'm:
 ## You can reach me at:
 <div>
  
-<a href="">
+<a href="mailto:pablo.venino@hotmail.com">
+ <img heigth="100px" width="180x" alt="pablo's-outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+</a>
+
+<a href="https://www.linkedin.com/in/pablovenino/">
  <img heigth="30px" width="30px" alt="pablo's-linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
