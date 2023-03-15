@@ -26,7 +26,7 @@ Im Pablo, and I:
 
 </div>
 
-## My GitHub Most used languages status:
+## My GitHub Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablovenino)](https://github.com/pablovenino/github-readme-stats)
 
 ## My GitHub Stats:
