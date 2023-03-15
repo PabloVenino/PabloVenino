@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/d7c5b0b7-2925-46f5-8f49-fdb903662f23.svg)](https://wakatime.com/@d7c5b0b7-2925-46f5-8f49-fdb903662f23)
+
 # Hello there,
 ###### ~~the Angel from my nightmare~~
 Im Pablo, and I:
@@ -24,7 +26,7 @@ Im Pablo, and I:
 
 </div>
 
-## Most Used Languages:
+## My GitHub Most used languages status:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablovenino)](https://github.com/pablovenino/github-readme-stats)
 
 ## My GitHub Stats:
